@@ -1,0 +1,10 @@
+.container { width:100% !important; }
+.table { width: 80% !important; }
+.cell { width: 100% }
+.rendered table {
+	font-size: 28px;
+}
+
+.arcgisMapIPyWidgetDiv {
+	height: 700px;
+}
